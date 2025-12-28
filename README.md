@@ -46,7 +46,7 @@ The goal of this project is to:
 
 ## 🚀 How to Use This Project
 
-1. Download the `Sales_Dashboard.pbix` file  
+1. Download the `E-COMMERCE SALES PERFORMANCE DASHBOARD.pbix` file  
 2. Open it using **Power BI Desktop**  
 3. Explore the interactive visuals and filters  
 
