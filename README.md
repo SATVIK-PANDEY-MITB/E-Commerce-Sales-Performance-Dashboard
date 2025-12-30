@@ -29,10 +29,13 @@ The goal of this project is to:
 
 ## 🔍 Key Insights
 
-- **Technology** category generates the highest sales  
-- **Consumer** segment dominates overall revenue  
-- **West region** contributes the most to total sales  
-- Profits vary significantly across regions and categories  
+Technology category generates the highest sales
+
+Consumer segment dominates overall revenue
+
+West region (driven by California) contributes the most to sales
+
+Profits vary significantly across regions, discounts, and categories 
 
 ---
 
