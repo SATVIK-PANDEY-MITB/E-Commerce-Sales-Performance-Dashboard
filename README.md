@@ -5,7 +5,7 @@ The dashboard provides clear insights into sales performance, customer segments,
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Project Objectives
 
 The goal of this project is to:
 - Understand overall sales and profit performance  
