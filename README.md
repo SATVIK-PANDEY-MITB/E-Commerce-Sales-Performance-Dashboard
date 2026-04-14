@@ -59,9 +59,5 @@ Profits vary significantly across regions, discounts, and categories
 
 This dashboard demonstrates the effective use of data visualization to uncover meaningful business insights.  
 It highlights how Power BI can transform raw data into actionable information for decision-making.
-
----
-
-### 👤 Author
-**Satvik Pandey**  
+ 
 
